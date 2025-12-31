@@ -1,83 +1,27 @@
-# Hi, I'm Moin 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-🚀 MERN Stack Developer | Full-Stack Web Developer  
-🎓 CSE Student @ United International University  
-💡 Passionate about building scalable and user-friendly web applications
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Moin+Matubbar....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
----
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/
+moin-matubbar" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 
-## 👨‍💻 About Me
-I am a MERN Stack Developer experienced in building full-stack applications using modern technologies.  
-I enjoy solving real-world problems, writing clean code, and continuously improving my development skills.
-
-- 🔭 Currently working on MERN-based projects
-- 🌱 Improving system design & backend architecture
-- ⚡ Interested in full-stack & backend development
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- React
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS 
-
-### Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication
-
-### Database
-- MongoDB
-
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- npm
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 MERN Authentication System
-A complete authentication system with JWT-based login and protected routes.
-
-- Tech: React, Node.js, Express, MongoDB
-- Features: Login, Register, Auth middleware
-- 🔗 Repo: https://github.com/Coder-the-noob/mern-auth-app
-
----
-
-### 📝 MERN Task Manager
-A full-stack task management application with CRUD operations.
-
-- Tech: MERN Stack
-- Features: User authentication, task creation & management
-- 🔗 Repo: https://github.com/Coder-the-noob/mern-task-manager
-
----
-
-### 🌐 Portfolio Website
-Personal portfolio website showcasing projects and skills.
-
-- Tech: React, HTML, CSS
-- 🔗 Repo: https://github.com/Coder-the-noob/Practice-Portfolio
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-the-noob&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-the-noob&layout=compact)
-
----
-
-## 📫 Connect With Me
-- 📧 Email: moinmatubbar6@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/
-moin-matubbar
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Md. Moin Matubbar, MERN-STACK developer from Bangladesh
+  <br>
+  <br>
+  🔬 I'm currently studying for my Bachelor at United International University, Department of Computer Engineering
+  <br>
+  🎓 I graduated from Faridpur Sugar Mills High School
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📫 How to reach me: <a href="mailto: moinmatubbar6@gmail.com">moinmatubbar6@gmail.com</a>
+</p>
