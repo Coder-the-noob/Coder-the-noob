@@ -4,33 +4,49 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Moin+Matubbar....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Moin+Matubbar;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/
-moin-matubbar" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
+  <img align="center" width="22" src="linkedin.svg">
+  <a href="https://www.linkedin.com/in/moin-matubbar" title="LinkedIn Profile">
+      LinkedIn
+    </a>
 </h5>
+
 <br>
+
 <p align="center">
-  Hi, I'm Md. Moin Matubbar, MERN-STACK developer from Bangladesh
+  Hi, I'm <strong>Md. Moin Matubbar</strong>, a <strong>MERN Stack Developer</strong> from Bangladesh.
+  <br><br>
+  🔬 Currently studying for my Bachelor’s degree at <strong>United International University</strong>, Department of Computer Science and Engineering
   <br>
+  🎓 Graduated from Faridpur Sugar Mills High School
   <br>
-  🔬 I'm currently studying for my Bachelor at United International University, Department of Computer Engineering
+  💻 Passionate about writing clean code and learning modern web technologies
   <br>
-  🎓 I graduated from Faridpur Sugar Mills High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📫 How to reach me: <a href="mailto: moinmatubbar6@gmail.com">moinmatubbar6@gmail.com</a>
+  📫 Reach me at: <a href="mailto:moinmatubbar6@gmail.com">moinmatubbar6@gmail.com</a>
 </p>
 
-<hr>
+---
+
+## 🔭 Current Activities
+- 🌱 Exploring <strong>Next.js</strong>
+- 🏗️ Working on a <strong>Blood Donation Website</strong>
+- ⚛️ Building projects using the <strong>MERN Stack</strong>
+
+---
+
 <h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,tailwind,js,react,nextjs,nodejs,mongodb,npm,git,github,vscode" />
 </p>
 
-[![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-the-noob)](https://github.com/Coder-the-noob/github-readme-stats)
+---
+
+## 📊 GitHub Stats
+- 🔢 Number of contributions: Visible on my GitHub profile
+- 🧠 Languages used: JavaScript, C++, Java, HTML, CSS, React
+- 🔥 Contribution streak: Active contributor
