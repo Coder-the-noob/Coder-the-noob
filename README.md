@@ -11,8 +11,6 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/
 moin-matubbar" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
-
-  <code><a href="https://www.instagram.com/scobby_panda" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
