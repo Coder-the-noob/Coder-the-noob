@@ -32,3 +32,5 @@ moin-matubbar" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> Link
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,tailwind,js,react,nextjs,nodejs,mongodb,npm,git,github,vscode" />
 </p>
+
+[![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-the-noob)](https://github.com/Coder-the-noob/github-readme-stats)
