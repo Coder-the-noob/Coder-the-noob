@@ -27,3 +27,10 @@ moin-matubbar" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> Link
   <br>
   📫 How to reach me: <a href="mailto: moinmatubbar6@gmail.com">moinmatubbar6@gmail.com</a>
 </p>
+
+<hr>
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,tailwind,js,react,nextjs,nodejs,mongodb,npm,git,github,vscode" />
+</p>
